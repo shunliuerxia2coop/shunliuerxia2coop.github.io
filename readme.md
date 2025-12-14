@@ -7,3 +7,5 @@ Canoeworkshop towards COOP, 20jun - 20 jul, 2025: https://canoeworkshop2coop.git
 
 ## 顺流而下
 SHUNLIUERXIAorFRTS towards COOP, 20sep - 15nov, 2025: https://shunliuerxia2coop.github.io/
+
+![our canoe with outriggers in yangtze-river](img/canoe01.jpg)
